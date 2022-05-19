@@ -1,0 +1,37 @@
+plugins {
+   id 'com.android.library'
+}
+
+
+android {
+    compileSdkVersion 31
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        minSdkVersion 21
+        targetSdkVersion 31
+        versionCode 1
+        versionName "1.0.0"
+    }
+    buildTypes {
+        release {
+
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'com.google.android.material:material:1.6.0'
+    implementation "androidx.fragment:fragment:1.4.1"
+    implementation "androidx.drawerlayout:drawerlayout:1.1.1"
+    implementation "androidx.lifecycle:lifecylce-livedata-core:2.3.1"
+    implementation "androidx.customview:custonview:1.0.0"
+    implementation "android.lifecycle:lifecycle-livedata:2.0.0"
+
+
+
+}
