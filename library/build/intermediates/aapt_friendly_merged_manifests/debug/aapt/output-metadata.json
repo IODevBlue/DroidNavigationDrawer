@@ -4,7 +4,7 @@
     "type": "AAPT_FRIENDLY_MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.apis.blueiobase",
+  "applicationId": "com.blueiobase",
   "variantName": "debug",
   "elements": [
     {

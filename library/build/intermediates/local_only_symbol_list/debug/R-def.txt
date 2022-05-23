@@ -1,2 +1,12 @@
 R_DEF: Internal format may change without notice
 local
+attr? menuItemBackgroundColor
+attr? menuItemBackgroundColorHighlight
+attr? menuItemBackgroundColorSelected
+attr? menuItemCustomLayout
+attr? menuItemIconColor
+attr? menuItemNotificationColor
+attr? menuItemRippleColor
+attr? menuItemTextColor
+styleable DroidNavigationDrawer
+styleable MenuItemStyle menuItemBackgroundColor menuItemBackgroundColorSelected menuItemBackgroundColorHighlight menuItemIconColor menuItemTextColor menuItemNotificationColor menuItemRippleColor menuItemCustomLayout

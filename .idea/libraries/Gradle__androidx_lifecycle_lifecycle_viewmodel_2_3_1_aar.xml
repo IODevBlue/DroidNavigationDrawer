@@ -4,10 +4,14 @@
       <root url="jar://$PROJECT_DIR$/../Gradle/gradle-6.8/caches/transforms-3/7032322a5c4cd97d4f3193c7d64e2256/transformed/lifecycle-viewmodel-2.3.1/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../Gradle/gradle-6.8/caches/transforms-3/7032322a5c4cd97d4f3193c7d64e2256/transformed/lifecycle-viewmodel-2.3.1/res" />
       <root url="file://$PROJECT_DIR$/../Gradle/gradle-6.8/caches/transforms-3/7032322a5c4cd97d4f3193c7d64e2256/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../Gradle/caches/transforms-3/3df248e8f1237a442b52e24c535e9c65/transformed/lifecycle-viewmodel-2.3.1/res" />
+      <root url="file://$PROJECT_DIR$/../Gradle/caches/transforms-3/3df248e8f1237a442b52e24c535e9c65/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Gradle/caches/transforms-3/3df248e8f1237a442b52e24c535e9c65/transformed/lifecycle-viewmodel-2.3.1/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../Gradle/gradle-6.8/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.3.1/55d6fa3541ca02167b0bd62a16fbdaec2a71622/lifecycle-viewmodel-2.3.1-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.3.1/55d6fa3541ca02167b0bd62a16fbdaec2a71622/lifecycle-viewmodel-2.3.1-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

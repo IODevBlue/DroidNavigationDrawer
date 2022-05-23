@@ -28,9 +28,9 @@ dependencies {
     implementation 'com.google.android.material:material:1.6.0'
     implementation "androidx.fragment:fragment:1.4.1"
     implementation "androidx.drawerlayout:drawerlayout:1.1.1"
-    implementation "androidx.lifecycle:lifecylce-livedata-core:2.3.1"
-    implementation "androidx.customview:custonview:1.0.0"
-    implementation "android.lifecycle:lifecycle-livedata:2.0.0"
+    implementation "androidx.lifecycle:lifecycle-livedata-core:2.4.1"
+    implementation "androidx.customview:customview:1.1.0"
+    implementation "androidx.lifecycle:lifecycle-livedata:2.4.1"
 
 
 

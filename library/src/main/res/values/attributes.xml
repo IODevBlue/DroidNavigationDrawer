@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DroidNavigationDrawer">
+
+    </declare-styleable>
+
+    <declare-styleable name="MenuItemStyle">
+        <!--The background color of the Menu item. This would be the color when it is unselected.-->
+        <attr name="menuItemBackgroundColor" format="color"/>
+        <!--The background color of the Menu item when selected.-->
+        <attr name="menuItemBackgroundColorSelected" format="color" />
+        <!--The background color of the Menu item when it is highlighted.-->
+        <attr name="menuItemBackgroundColorHighlight" format="color" /><!--TODO: Fix description-->
+        <!--The color of the Menu item Icon.-->
+        <attr name="menuItemIconColor" format="color" />
+        <!--The color of the Menu item Text.-->
+        <attr name="menuItemTextColor" format="color" />
+        <!--The color of the Menu item Notification text.-->
+        <attr name="menuItemNotificationColor" format="color" />
+        <!--The color of the Menu item Ripple Drawable.-->
+        <attr name="menuItemRippleColor" format="color" />
+        <!--The custom layout of the Menu item. -->
+        <attr name="menuItemCustomLayout" format="reference" />
+    </declare-styleable>
+</resources>

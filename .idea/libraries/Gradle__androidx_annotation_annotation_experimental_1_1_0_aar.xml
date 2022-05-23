@@ -4,10 +4,14 @@
       <root url="jar://$PROJECT_DIR$/../Gradle/gradle-6.8/caches/transforms-3/abd4d1e6505c162b90b593e8fe4b4a0d/transformed/annotation-experimental-1.1.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../Gradle/gradle-6.8/caches/transforms-3/abd4d1e6505c162b90b593e8fe4b4a0d/transformed/annotation-experimental-1.1.0/res" />
       <root url="file://$PROJECT_DIR$/../Gradle/gradle-6.8/caches/transforms-3/abd4d1e6505c162b90b593e8fe4b4a0d/transformed/annotation-experimental-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../Gradle/caches/transforms-3/c6f8c705e8f0662c99f9f82fca191f92/transformed/annotation-experimental-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../Gradle/caches/transforms-3/c6f8c705e8f0662c99f9f82fca191f92/transformed/annotation-experimental-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../Gradle/caches/transforms-3/c6f8c705e8f0662c99f9f82fca191f92/transformed/annotation-experimental-1.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
       <root url="jar://$PROJECT_DIR$/../Gradle/gradle-6.8/caches/modules-2/files-2.1/androidx.annotation/annotation-experimental/1.1.0/238eb640abf1ca6c952c7cd2e9423fe7f715713f/annotation-experimental-1.1.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../Gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-experimental/1.1.0/238eb640abf1ca6c952c7cd2e9423fe7f715713f/annotation-experimental-1.1.0-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
